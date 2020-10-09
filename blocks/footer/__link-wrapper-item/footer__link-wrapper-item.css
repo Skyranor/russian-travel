@@ -1,0 +1,9 @@
+@media screen and (max-width: 535px) {
+  .footer__link-wrapper-item {
+    padding-bottom: 32px;
+  }
+}
+
+.footer__link-wrapper-item:last-child {
+  padding-bottom: 0;
+}
