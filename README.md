@@ -1,5 +1,5 @@
 # Проектная работа №3: Путешествие по России
-Github Pages:
+Github Pages: https://skyranor.github.io/russian-travel/
 
 **Интро**
 
